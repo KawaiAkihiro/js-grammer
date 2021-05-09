@@ -38,3 +38,21 @@
 // }
 
 // console.log(func3())
+
+//分割代入
+
+// const myProfile = {
+//   name: "kawai",
+//   age: 23
+// };
+
+// // const message = `名前は${myProfile.name}です。
+// // 年齢は${myProfile.age}です。`;
+
+// // console.log(message)
+
+// const { name, age } = myProfile;
+
+// const message = `名前は${name}です。年齢は${age}です。`;
+
+// console.log(message);
